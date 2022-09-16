@@ -3,7 +3,7 @@
 |----------|:-------------:|
 |`Starting date`| April 2021|
 | `COMPETITION` |  Polymaze| 
-| `CODING LANGUAGE` |   C   | 
+| `CODING LANGUAGE` |   C++   | 
 | `Time spent on coding/designing the robot` | > 1 month  | 
 |`member of the team`| 2|
 ## Introduction
