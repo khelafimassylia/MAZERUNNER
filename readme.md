@@ -11,6 +11,7 @@ Polymaze is a MAZE SOLVING competition. Similar events have been held throughout
 world, and are most popular in the UK, the U.S, Japan, Singapoura, India, South Korea...etc.
 I participated to the first edition of ths competiton , the code used to control the micromouse will be detailled below.
 The first version of the M2-KB Robot will not be displayed in ths repository , the second version shown in the image (a) below was a robot type called micromouse , this version was used during the competition . The final version shown in the image (b) was our last version and was presented during an event called `TECHITUP`.
+![alt text](http://url/to/backversion1.png)
 <img
 src=“frontversion1.png”
 raw=true
